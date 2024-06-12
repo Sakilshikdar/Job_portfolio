@@ -1,7 +1,6 @@
 import React from 'react';
 import Footer from '../../shared/Footer/Footer';
 import About from '../About';
-import Calculator from '../Calculator';
 import Contract from '../Contract';
 import Landing from '../Landing';
 import Projects from '../Projects';
@@ -18,11 +17,8 @@ const Home = () => {
             <Skill></Skill>
             <About></About>
             <Blog></Blog>
-            {/* <Calculator /> */}
-            {/* <Info></Info> */}
-            {/* <Services></Services> */}
             <Contract></Contract>
-            {/* <Footer></Footer> */}
+            <Footer></Footer>
         </div>
     );
 };

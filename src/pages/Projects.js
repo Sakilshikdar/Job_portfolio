@@ -41,7 +41,7 @@ const Projects = () => {
                         <img src={pic3} className="landing max-w-sm rounded-lg shadow-lg bg-base-200 p-3" />
                     </div>
                     <div class="card-body">
-                        <h2 class="card-title">Recipi Managmet</h2>
+                        <h2 class="card-title">Recipe Managmet</h2>
                         <p><span className='font-bold text-2xl'>P</span>rojects name is Recipi managment webside and have some components.Dashboard components is a protected route and this components have some section.  Blog and Portfolio page show some intersting thing.</p>
                         <div class="card-actions justify-end">
                             <Link to='/projectsThree'><button class="btn btn-primary">Web Details</button></Link>

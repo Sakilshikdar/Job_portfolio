@@ -23,11 +23,11 @@ const Landing = () => {
             >
 
             </h1>
-            <p
-              data-aos='fade-right'
-              data-aos-delay='600'
-              data-aos-duration='800'
-              className='text-white py-6 max-w-xl text-xl'
+            <p className="my-4"
+              // data-aos='fade-right'
+              // data-aos-delay='600'
+              // data-aos-duration='800'
+              // className='text-white py-6 max-w-xl text-xl'
             >
               I am a professional Full-Stack website developer. I have more than 1+ years of experience in ReactJS and java , Nodejs. I always try to learn and share new skills and stay updated
             </p>
