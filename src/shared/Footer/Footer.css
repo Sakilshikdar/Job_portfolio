@@ -1,20 +1,28 @@
-#animation {
+/* #animation {
     background-color: #080a3c;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
 }
 
 #animation::after {
     content: '';
-    background-image: url(assets/images/images/footer-shape1.png);
+    background-image: url(../../assets/images/images/footer-shape1.png);
     background-image: url();
     width: 100%;
     height: 100%;
-    /* position: absolute; */
+    position: absolute;
     animation: imgChange 1s linear 1s infinite;
 }
 
 #animation::before {
     content: '';
-    background-image: url(assets/images/images/footer-shape2.png);
+    background-image: url(../../assets/images/images/footer-shape2.png);
     width: 100%;
     height: 100%;
     position: absolute;
@@ -43,21 +51,4 @@
     100%{
         opacity: 1;
     }
-}
-
-.btn{
-    background-color: #f9004d;
-    color:white;
-    text-decoration: none;
-    border: 2px solid transparent;
-    font-weight: bold;
-    padding: 10px 10px;
-    border-radius: 30px;
-    transition: ease-in-out .6s;
-}
-
-.btn:hover{
-    transform: scale(1.1);
-    color: white;
-    background-color: #f9004d;
-}
+} */
