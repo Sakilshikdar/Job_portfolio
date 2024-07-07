@@ -11,7 +11,7 @@ import Info from './Info'
 
 const Home = () => {
     return (
-        <div>
+        <div className='sm-p-5'>
             <Landing></Landing>
             <Projects></Projects>
             <Skill></Skill>
