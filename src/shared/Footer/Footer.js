@@ -11,7 +11,7 @@ function  Footer() {
             <p class="text-gray-400">
               Passionate web developer with a knack for creating elegant solutions in the least amount of time. Developer by day, coder by night.
               </p>
-              <></>
+              
           </div>
   
         
